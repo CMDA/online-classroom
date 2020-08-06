@@ -15,6 +15,7 @@ The guides mainly focus on technical courses, since we write about setting up yo
 - [Virtual Classroom](/guides/classroom.md)
 - [Creating screencasts](/guides/screencasts.md)
 - [Equipment and gear](/guides/gear.md)
+- [Workspace inspiration](/guides/workspace.md)
 - [Additional Resources](/guides/resources.md)
 
 ## Resources
