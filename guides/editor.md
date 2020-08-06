@@ -1,5 +1,7 @@
 # Editor Settings
 
+![Editor View](../images/editor-view.png)
+
 > This guide focusses on Visual Studio Code as your editor of choice. The tech-expertise working group decided this is going to be our main editor for the upcoming years.
 
 When making screencasts or doing live demo's you'll probably want to change some of your VS Code settings to increase the font size, make the colors easy to see on a projector screen and removing 'noise' (things that distracts students) all together. Most of these things (extensions, pop-ups) are useful for writing code on your own but bet in the way when teaching.
