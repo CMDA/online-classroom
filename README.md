@@ -10,11 +10,12 @@ The guides mainly focus on technical courses, since we write about setting up yo
 
 ## Guides
 
+- [Set-up your code editor](guides/editor.md)
+- [Collaborate with students](/guides/share.md)
+- [Virtual Classroom](/guides/classroom.md)
 - [Creating screencasts](/guides/screencasts.md)
-- [Editor settings](guides/editor.md)
-- [Live Share](/guides/share.md)
-- [Additional equipment](/guides/gear.md)
-- [Resources](/guides/resources.md)
+- [Equipment and gear](/guides/gear.md)
+- [Additional Resources](/guides/resources.md)
 
 ## Resources
 
