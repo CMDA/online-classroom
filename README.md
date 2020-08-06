@@ -20,7 +20,7 @@ All the supporting material used for writing these guides can be found in [`reso
 - [Creating screencasts](/guides/screencasts.md)
 - [Equipment and gear](/guides/gear.md)
 - [Workspace inspiration](/guides/workspace.md)
-- [Additional Resources](/guides/resources.md)
+- [Additional Resources](/resources.md)
 
 ## Program
 
