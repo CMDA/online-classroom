@@ -4,7 +4,7 @@
 
 > You probably don't need all of this. Good gear doesn't make you a better instructor. First use the tools you already have in your toolbox and expand if you feel like you can improve in some area.
 
-Some gear to make your virtual classroom experience a little better.
+Some gear to make your virtual classroom experience a little better. Check out the [workspace inspiration](/guides/workspace.md) page and the [resources](/resources.md) page for more gear recommendations.
 
 - [Gear](#gear)
   - [Camera](#camera)
